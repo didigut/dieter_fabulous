@@ -1,7 +1,26 @@
-## Welcome to GitHub Pages
 
 # This is a first try out
 ## Favourite readers include: Ralf and me
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 You can use the [editor on GitHub](https://github.com/didigut/dieter_fabulous.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
