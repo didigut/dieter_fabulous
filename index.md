@@ -8,7 +8,7 @@
 - khanacademy: intro to html
 - khanacademy: intro to css
 
-## Questions that came up:
+## Questions that came up (Luki, please answer):
 - How to connect Atom with github successfully?
 - How to learn git shell commands (integration remote server)?
 - How to use Hugo in github pages?
